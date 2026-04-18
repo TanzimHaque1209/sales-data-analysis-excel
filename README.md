@@ -30,12 +30,8 @@ Key Analysis Performed
 
 Project Visuals
 
-Sales Forecast (Jan 2025)
-![Forecast](outputs/charts/forecast_jan_2025.png)
-
- Brand-wise Analysis (Pivot Table)
-![Pivot](outputs/charts/pivot_brand_analysis.png)
----
+![Forecast](Outputs/Charts/forecast_jan_2025.png)
+![Pivot](Outputs/Charts/pivot_brand_analysis.png)
 
 
  Key Insights
