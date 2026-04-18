@@ -28,34 +28,15 @@ Key Analysis Performed
 
 ---
 
- Project Visuals
+Project Visuals
 
- Sales Forecast (Jan 2025)
-
+Sales Forecast (Jan 2025)
 ![Forecast](outputs/charts/forecast_jan_2025.png)
 
  Brand-wise Analysis (Pivot Table)
-
 ![Pivot](outputs/charts/pivot_brand_analysis.png)
-
 ---
 
- Project Structure
-
-```
-sales-data-analysis-excel/
-├── data/
-│   └── dataset.xlsx
-├── outputs/
-│   ├── pivot_tables.xlsx
-│   └── charts/
-│       ├── brand_bar_chart.png
-│       ├── area_doughnut_chart.png
-│       ├── forecast_jan_2025.png
-└── README.md
-```
-
----
 
  Key Insights
 
